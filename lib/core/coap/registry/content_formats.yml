@@ -5,3 +5,4 @@
 47: 'application/exi'
 50: 'application/json'
 60: 'application/cbor'
+202:  'n3/turtle'
